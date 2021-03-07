@@ -10,3 +10,4 @@
 <li><strong>Caution:-</strong> after you have cloned the website, you'll have to control the version using git pull "main repository url"</li>
 <li>In the session you must have learned about pull request, make a PR and wallah you have made a contribution</li>
 </ol>
+<h5>Added for causing conflicts and show the pull command</h5>
