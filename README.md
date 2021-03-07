@@ -2,6 +2,7 @@
 <h1>Instructions regarding contributings</h1>
 <ol>
 <li>Fork this repository</li>
+<li>Star this repository</li>
 <li>open a new folder in your system and open command prompt in that folder</li>
 <li>in the terminal write the command git clone "your forked repository url"</li>
 <li>cd into your folder</li>
